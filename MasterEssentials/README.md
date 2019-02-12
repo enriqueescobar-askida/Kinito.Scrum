@@ -20,5 +20,17 @@ Kinito.Scrum Description
   1. Scrum Events
   2. (Sprint backlog?)
 
+# 5V Scrum Values as FORCC
 
+* Focus as restricted domain != multitask
+* Openness as dialogue
+* Respect as respected and respect others
+* Courage as overcome challenges together
+* Commitment as acheive goals doing their best
+
+# 3R Scrum Roles as SM, PO, DT
+
+* Scrum Master
+* Product Owner
+* Dev Team
 
