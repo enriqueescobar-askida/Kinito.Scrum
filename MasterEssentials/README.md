@@ -3,10 +3,10 @@ Kinito.Scrum Description
 
 # Overview 3R 5V 5E 3A
 
-* 3 roles
-* 5 values
-* 5 events
-* 3 artifacts
+* 3 roles     3R
+* 5 values    5V
+* 5 events    5E
+* 3 artifacts 3A
 
 # Empirical process controls's 3 pillars TIA
 
@@ -30,7 +30,7 @@ Kinito.Scrum Description
 
 # 3R Scrum Roles as SM, PO, DT
 
-* Scrum Master
-* Product Owner
-* Dev Team
+* Scrum Master!
+* Product Owner!
+* Development Team != PO & != SM but Devs, QAs, PMs, managers
 
