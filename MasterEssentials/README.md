@@ -62,12 +62,10 @@ Serves:
 * Development Team
 * Organization
 
-
-
-
 ## n Development Team != PO & != SM but Devs, QAs, PMs, managers
 
-Decides the PBIs to do
+Decides the PBIs to do.
+Self oganized
 
 # Five Scrum Events or time boxes as 5E
 
