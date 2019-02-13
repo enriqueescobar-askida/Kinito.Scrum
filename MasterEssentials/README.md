@@ -30,9 +30,16 @@ Kinito.Scrum Description
 
 # 3 Scrum Roles as 3R: SM, PO, DT
 
-* Scrum Master!
-* Product Owner!
-* Development Team != PO & != SM but Devs, QAs, PMs, managers
+## 1 Product Owner!
+
+Maximizes the value of the product by managig the value of:
+
+* the product
+* the work of the whole Scrum Team
+
+## 1 Scrum Master!
+
+## n Development Team != PO & != SM but Devs, QAs, PMs, managers
 
 # 5 Scrum Events or time boxes as 5E
 
@@ -51,14 +58,14 @@ In a
 * Product Backlog
 * Sprint Backlog
 
-# Scrum and Development Team sizes
+# Team sizes
 
 | Scrum Team | Development Team |
 |------------|------------------|
 | [5-11]     | [3-9]            |
 | [7-9]      | [5-7]            |
 
-## DEvelopment team
+## Development team
 
 Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not theSM
 
