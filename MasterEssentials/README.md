@@ -8,7 +8,7 @@ Kinito.Scrum Description
 * 5 events    5E
 * 3 artifacts 3A
 
-# Empirical process controls's 3 pillars TIA
+# Empirical process controls's 3 pillars as TIA
 
 * transparency
   1. product backlog
@@ -20,7 +20,7 @@ Kinito.Scrum Description
   1. Scrum Events
   2. (Sprint backlog?)
 
-# 5V Scrum Values as FORCC
+# 5 Scrum Values as 5V: FORCC
 
 * Focus as restricted domain != multitask
 * Openness as dialogue
@@ -28,9 +28,27 @@ Kinito.Scrum Description
 * Courage as overcome challenges together
 * Commitment as acheive goals doing their best
 
-# 3R Scrum Roles as SM, PO, DT
+# 3 Scrum Roles as 3R: SM, PO, DT
 
 * Scrum Master!
 * Product Owner!
 * Development Team != PO & != SM but Devs, QAs, PMs, managers
+
+# 5 Scrum Events or time boxes as 5E
+
+In a
+
+## Sprint
+
+* Sprint Planning
+* Daily Scrum
+* Sprint Review
+* Sprint Retro
+
+
+
+
+
+
+
 
