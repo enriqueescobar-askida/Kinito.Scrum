@@ -51,6 +51,13 @@ In a
 * Product Backlog
 * Sprint Backlog
 
+# Scrum and Development Team sizes
+
+| Scrum Team | Development Team |
+|------------|------------------|
+| [5-11]     | [3-9]            |
+| [7-9]      | [5-7]            |
+
 
 
 
