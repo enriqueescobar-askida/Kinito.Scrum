@@ -38,16 +38,18 @@ Kinito.Scrum Description
 
 In a
 
-## Sprint
+## Sprint (Backlog Refinement can occur anytime)
 
 * Sprint Planning
 * Daily Scrum
 * Sprint Review
 * Sprint Retro
 
+# 3 Scrum artifacts as 3A
 
-
-
+* Product Increment
+* Product Backlog
+* Sprint Backlog
 
 
 
