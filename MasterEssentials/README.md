@@ -39,7 +39,7 @@ Kinito.Scrum Description
 
 ## 1 Product Owner!
 
-Accountable for the Product Backlog
+Accountable for the Product Backlog & PBIs
 
 Maximizes the value of the product by managig the value of:
 
@@ -48,7 +48,26 @@ Maximizes the value of the product by managig the value of:
 
 ## 1 Scrum Master!
 
+Multi role helping and facilitating team's work.
+
+Should let:
+
+* decide team based decisions
+* bee polinator
+* experiment
+
+Serves:
+
+* Product Owner
+* Development Team
+* Organization
+
+
+
+
 ## n Development Team != PO & != SM but Devs, QAs, PMs, managers
+
+Decides the PBIs to do
 
 # Five Scrum Events or time boxes as 5E
 
