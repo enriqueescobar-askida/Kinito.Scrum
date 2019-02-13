@@ -20,7 +20,7 @@ Kinito.Scrum Description
   1. Scrum Events
   2. (Sprint backlog?)
 
-# 5 Scrum Values as 5V: FORCC
+# Five Scrum Values as 5V: FORCC
 
 * Focus as restricted domain != multitask
 * Openness as dialogue
@@ -28,7 +28,7 @@ Kinito.Scrum Description
 * Courage as overcome challenges together
 * Commitment as acheive goals doing their best
 
-# 3 Scrum Roles as 3R: SM, PO, DT
+# Three Scrum Roles as 3R: SM, PO, DT
 
 ## 1 Product Owner!
 
@@ -41,7 +41,7 @@ Maximizes the value of the product by managig the value of:
 
 ## n Development Team != PO & != SM but Devs, QAs, PMs, managers
 
-# 5 Scrum Events or time boxes as 5E
+# Five Scrum Events or time boxes as 5E
 
 In a
 
@@ -52,13 +52,13 @@ In a
 * Sprint Review
 * Sprint Retro
 
-# 3 Scrum artifacts as 3A
+# Three Scrum artifacts as 3A
 
 * Product Increment
 * Product Backlog
 * Sprint Backlog
 
-# Team sizes
+# Two Team sizes
 
 | Scrum Team | Development Team |
 |------------|------------------|
