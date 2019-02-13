@@ -32,6 +32,8 @@ Kinito.Scrum Description
 
 ## 1 Product Owner!
 
+Accountable for the Product Backlog
+
 Maximizes the value of the product by managig the value of:
 
 * the product
