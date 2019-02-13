@@ -1,6 +1,13 @@
 # Kinito.Scrum
 Kinito.Scrum Description
 
+# Two Team sizes
+
+| Scrum Team | Development Team |
+|------------|------------------|
+| [5-11]     | [3-9]            |
+| [7-9]      | [5-7]            |
+
 # Overview 3R 5V 5E 3A
 
 * 3 roles     3R
@@ -59,13 +66,6 @@ In a
 * Product Increment
 * Product Backlog
 * Sprint Backlog
-
-# Two Team sizes
-
-| Scrum Team | Development Team |
-|------------|------------------|
-| [5-11]     | [3-9]            |
-| [7-9]      | [5-7]            |
 
 ## Development team
 
