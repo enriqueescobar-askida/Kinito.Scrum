@@ -58,6 +58,8 @@ In a
 | [5-11]     | [3-9]            |
 | [7-9]      | [5-7]            |
 
+## DEvelopment team
 
+Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not theSM
 
 
