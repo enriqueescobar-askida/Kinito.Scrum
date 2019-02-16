@@ -74,6 +74,7 @@ Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not 
 
 # Five Scrum Events or time boxes as 5E
 
+![Five SCRUM events-5E](5Events.png)
 In a
 
 ## Sprint (Backlog Refinement can occur anytime)
