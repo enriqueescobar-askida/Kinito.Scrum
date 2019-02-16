@@ -71,8 +71,10 @@ Serves:
 ## n Development Team != PO & != SM but Devs, QAs, PMs, managers
 
 Decides the PBIs to do.
-Self oganized
-Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not theSM
+
+Self oganized.
+
+Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not the SM.
 
 # Five Scrum Events or time boxes as 5E
 
