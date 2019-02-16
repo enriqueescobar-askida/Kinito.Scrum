@@ -75,6 +75,7 @@ Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not 
 # Five Scrum Events or time boxes as 5E
 
 ![Five SCRUM events-5E](5Events.png)
+
 In a
 
 ## Sprint (Backlog Refinement can occur anytime)
@@ -86,6 +87,7 @@ In a
 
 # Three Scrum artifacts as 3A
 
+![Three Artifacts-3A](3Artifacts.png)
 * Product Increment
 * Product Backlog
 * Sprint Backlog
