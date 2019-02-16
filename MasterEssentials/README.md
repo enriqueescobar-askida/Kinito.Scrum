@@ -54,6 +54,9 @@ Maximizes the value of the product by managig the value of:
 
 ## 1 Scrum Master!
 
+| ![SM](3R-SM.png) | ![SM_](3R-SM_.png) |
+-------------------|---------------------
+
 Multi role helping and facilitating team's work.
 
 Should let:
