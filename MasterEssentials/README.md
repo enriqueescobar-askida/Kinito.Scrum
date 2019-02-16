@@ -17,6 +17,7 @@ Kinito.Scrum Description
 
 # Empirical process controls's 3 pillars as TIA
 
+![3 pillars as TIA](../3pillars-TIA.png)
 * transparency
   1. product backlog
   2. sprint backlog
