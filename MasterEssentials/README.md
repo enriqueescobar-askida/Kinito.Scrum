@@ -41,6 +41,8 @@ Kinito.Scrum Description
 
 # Three Scrum Roles as 3R: SM, PO, DT
 
+![SM & PO](3R-SM_PO.png)
+
 ## 1 Product Owner!
 
 ![3R-PO](3R-PO.png)
