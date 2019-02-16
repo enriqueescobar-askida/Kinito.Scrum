@@ -30,6 +30,7 @@ Kinito.Scrum Description
 
 # Five Scrum Values as 5V: FORCC
 
+![5V-FORCC](5V-FORCC.png)
 * Focus as restricted domain != multitask
 * Openness as dialogue
 * Respect as respected and respect others
