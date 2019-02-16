@@ -43,6 +43,8 @@ Kinito.Scrum Description
 
 ## 1 Product Owner!
 
+![3R-PO](3R-PO.png)
+
 Accountable for the Product Backlog & PBIs
 
 Maximizes the value of the product by managig the value of:
