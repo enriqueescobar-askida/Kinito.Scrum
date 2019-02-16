@@ -75,6 +75,9 @@ Serves:
 
 ## n Development Team != PO & != SM but Devs, QAs, PMs, managers
 
+| ![3R DevTeam Skills](3R-DevelopmentTeam_Skills.png) | ![3R DevTeam Tasks](3R-DevelopmentTeam_Tasks.png) |
+|-----------------------------------------------------|---------------------------------------------------|
+
 Decides the PBIs to do.
 
 Self oganized.
