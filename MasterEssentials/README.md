@@ -1,6 +1,8 @@
 # Kinito.Scrum
 Kinito.Scrum Description
 
+![Agile-SCRUM Number one](ScrumNumberOne.png)
+
 # Two Team sizes
 
 | Scrum Team | Development Team |
@@ -68,6 +70,7 @@ Serves:
 
 Decides the PBIs to do.
 Self oganized
+Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not theSM
 
 # Five Scrum Events or time boxes as 5E
 
@@ -85,9 +88,3 @@ In a
 * Product Increment
 * Product Backlog
 * Sprint Backlog
-
-## Development team
-
-Defines what to accomplish and picks the PBIs to do in a sprint, not the PO not theSM
-
-
